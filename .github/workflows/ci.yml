@@ -46,4 +46,4 @@ jobs:
           distribution: 'corretto'
 
       - run: chmod +x format.sh
-      - run: ./format.sh && git diff --quiet
+      - run: ./format.sh && git diff --exit-code
