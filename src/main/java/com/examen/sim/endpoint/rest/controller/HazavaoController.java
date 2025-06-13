@@ -1,7 +1,7 @@
-package com.hazavao.api.endpoint.rest.controller;
+package com.examen.sim.endpoint.rest.controller;
 
-import com.hazavao.api.model.DefinitionResponse;
-import com.hazavao.api.service.HazavaoService;
+import com.examen.sim.model.DefinitionResponse;
+import com.examen.sim.service.HazavaoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
