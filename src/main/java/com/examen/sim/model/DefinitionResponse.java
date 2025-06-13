@@ -1,4 +1,4 @@
-package com.hazavao.api.model;
+package com.examen.sim.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
