@@ -1,6 +1,6 @@
-package com.hazavao.api.service;
+package com.examen.sim.service;
 
-import com.hazavao.api.model.DefinitionResponse;
+import com.examen.sim.model.DefinitionResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
